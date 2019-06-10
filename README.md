@@ -1,7 +1,7 @@
 # Website_Parser_Signal
 
 ## Project Information
-It is my first full websait for my project  [**Parse_Signal (look link).**] (https://github.com/GavryushkinSI/Parser_Signal_project)
+It is my first full websait for my project  [Parse_Signal (look link).] (https://github.com/GavryushkinSI/Parser_Signal_project)
 I used bootstrap framework for frontend, animation created by JQuery library, server part written on php and including two scripts:
 1. Counter pressing on  button
 2. Sending message on mail
