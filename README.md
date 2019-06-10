@@ -1,4 +1,7 @@
-# website_parser_tv
+# Website_Parser_Signal
+
+## Project Information
+* **Build System:** [Project](https://github.com/GavryushkinSI/Parser_Signal_project)
 Первая полноценная верстка сайт под мой проект автоматизации торговли Parse_Signal.
 В разработке использовал:
 -Bootstrap 3-сетка
