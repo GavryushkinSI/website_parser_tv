@@ -19,3 +19,6 @@ Parse_Signal по сравнению со специализированным �
 2. Плюс возможно появится какие-то платные , так как проект пока абсолютно некоммереский.
 Ссылка на сайт:http://parsesignal.tmweb.ru/
 Внимание сайт использует бесплатный домен в рамках, которого нет SSL сертификата. Поэтому с некоторых устройств может быть недоступен.
+It is the first complex websait for my project Parse_Signal (look link). I used bootstrap framework for frontend, animation is created by JQuery library, server part is written on php and includes two scripts:
+1. Counter of clicking on the button
+2. Sending the message by email when the user fills in the form on the website.
